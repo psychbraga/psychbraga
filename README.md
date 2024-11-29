@@ -84,3 +84,17 @@ My name is Felipe Braga, I am 17 years old, and I am from São Paulo, Brazil. I 
 
 
 
+
+
+
+
+
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/psychbraga/psychbraga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/psychbraga/psychbraga/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/psychbraga/psychbraga/output/github-contribution-grid-snake.svg">
+</picture>
+
+
